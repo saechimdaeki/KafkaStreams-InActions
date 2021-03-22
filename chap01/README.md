@@ -188,9 +188,11 @@
 
 마지막 자식 노드는 추가 분석을 위해 구메데이터를 NoSQL 데이터 저장소에 기록한다.
 
-![image-20210322145800018](/Users/kimjunseong/Library/Application Support/typora-user-images/image-20210322145800018.png)
+![image](https://user-images.githubusercontent.com/40031858/111950336-79e47c00-8b25-11eb-8cbe-1f8aa910dd24.png)
 
-![image-20210322145851850](/Users/kimjunseong/Library/Application Support/typora-user-images/image-20210322145851850.png)
+
+![image](https://user-images.githubusercontent.com/40031858/111950442-9f718580-8b25-11eb-8aed-ba42cf038f52.png)
+
 
 ## 🍰 처리 노드의 그래프인 카프카 스트림즈
 
