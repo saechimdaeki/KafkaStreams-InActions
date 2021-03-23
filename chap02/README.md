@@ -302,7 +302,8 @@ public class PurchaseKeyPartitioner extends DefaultPartitioner{
 
 토픽에 대해 복제수준을 설정할 수 있다. 아래그림은 브로커간 복제 흐름을 보여준다
 
-![image-20210323152455206](/Users/kimjunseong/Library/Application Support/typora-user-images/image-20210323152455206.png)
+![image](https://user-images.githubusercontent.com/40031858/112122639-d61dcd80-8c03-11eb-8509-35558207de29.png)
+
 
 #### `브로커 1과 3은 하나의 토픽 파티션에 대한 리더이고, 다른 하나에 대한 팔로워다. 반면 브로커2는 팔로워역할만한다 팔로어ㅜ 브로커는 리더브로커의 데이터를복사한다`
 
